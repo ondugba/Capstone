@@ -8,14 +8,13 @@ This project requires management of an ETL process, Data Analysis, and Data Visu
 -  Credit Card dataset
 
 ## Requirements
-- the yml file has the required libraries to use to duplicate this project but the core libraries are:
+- there is a yml file which has the required libraries to install to duplicate this project but the core libraries are:
     : Python 
     : Pandas
     : Seaborn
     : Matplotlib
-    : MYSQL
     : PySpark
-
+- you will also need to download and install MySQL and Tableau
 
 ## Data Analysis and Visualization
 
