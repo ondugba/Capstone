@@ -39,8 +39,8 @@ Rejection percentage for married male applicants
 
 ## Technical Challenges
 - there are some issues with connecting to the sql database using pyspark.
-- I was able to connect and load 3 of my cleaned dataframes into the mysql database I was using but I did get a lot of warnings
-- I wasnt able to connect and load the last dataframe(loan) into the mysql database.
+- I was able to connect and load all my cleaned dataframes into the mysql database I was using but I did get a lot of warnings.
+
 
 
 ![](images/married_men.png)
