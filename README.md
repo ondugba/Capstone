@@ -41,7 +41,7 @@ Rejection percentage for married male applicants
 
 Top branch by total transaction value for Healthcare
 
-![](images/top3_branches_healthcare.png)
+![](images/top_3_branch_healthcare.png)
 ![](images/top_branch_healthcare.png)
 
 Top 3 months by total transactions
