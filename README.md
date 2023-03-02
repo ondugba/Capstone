@@ -1,5 +1,5 @@
 # Capstone Project for Perscholas Data Engineerig
-This project is the final project for the Perscholas Data Engineering bootcamp
+This is the final project for the Perscholas Data Engineering bootcamp
 
 ## Overview
 This project requires management of an ETL process, Data Analysis, and Data Visualization for:
