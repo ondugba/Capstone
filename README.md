@@ -22,7 +22,7 @@ Total transaction Amount by Transaction Type
 
 ![](images/transaction_types_amounts.png)
 
-Top 8 states by number of customer 
+Top 8 states by number of customers 
 
 ![](images/top_8_states_by_customer.png)
 
@@ -39,7 +39,7 @@ Rejection percentage for married male applicants
 
 ![](images/married_men.png)
 
-Top branches by total transaction value for Healthcare
+Top branch by total transaction value for Healthcare
 
 ![](images/top3_branches_healthcare.png)
 ![](images/top_branch_healthcare.png)
