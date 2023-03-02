@@ -37,6 +37,12 @@ Approval Rate for Self-Employeed individuals
 
 Rejection percentage for married male applicants
 
+## Technical Challenges
+- there are some issues with connecting to the sql database using pyspark.
+- I was able to connect and load all my cleaned dataframes into the mysql database I was using but I did get a lot of warnings.
+
+
+
 ![](images/married_men.png)
 
 Top branch by total transaction value for Healthcare
