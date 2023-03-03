@@ -14,6 +14,8 @@ This project requires management of an ETL process, Data Analysis, and Data Visu
     : Seaborn
     : Matplotlib
     : PySpark
+- this yml file can be run to automatically create a dupicate environment 
+- I've also included a requirements.txt file as well.
 - you will also need to download and install MySQL and Tableau
 
 ## Data Analysis and Visualization
@@ -37,12 +39,6 @@ Approval Rate for Self-Employeed individuals
 
 Rejection percentage for married male applicants
 
-## Technical Challenges
-- there are some issues with connecting to the sql database using pyspark.
-- I was able to connect and load all my cleaned dataframes into the mysql database I was using but I did get a lot of warnings.
-
-
-
 ![](images/married_men.png)
 
 Top branch by total transaction value for Healthcare
@@ -53,6 +49,10 @@ Top branch by total transaction value for Healthcare
 Top 3 months by total transactions
 
 ![](images/top3months.png)
+
+## Technical Challenges
+- there are some issues with connecting to the sql database using pyspark.
+- I was able to connect and load all my cleaned dataframes into the mysql database I was using but I did get a lot of warnings.
 
 
 
