@@ -17,6 +17,7 @@ This project requires management of an ETL process, Data Analysis, and Data Visu
 - this yml file can be run to automatically create a dupicate environment 
 - I've also included a requirements.txt file as well.
 - you will also need to download and install MySQL and Tableau
+- There is a console.py file that needs to be run from inside of the part1 notebook - can run at the end of section 2 or at the end of the notebook(but before stopping the spark session)
 
 ## Data Analysis and Visualization
 
